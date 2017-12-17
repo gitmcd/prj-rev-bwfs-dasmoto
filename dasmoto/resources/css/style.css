@@ -1,0 +1,39 @@
+h1,
+h2,
+h3,
+p,
+span {
+  font-family: helvetica;
+}
+
+h1 {
+  background-image: url('../images/pattern.jpeg');
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/*--  background color for each h2 section headings --*/
+#frames h2 {
+  background-color: mediumspringgreen;
+}
+
+#brushes h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
